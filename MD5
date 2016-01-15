@@ -1,0 +1,10 @@
+95bdbd1c206a0a4ce4b8241f81ff1675 *DESCRIPTION
+2ee516efe14e50639469572c1edf93c8 *NAMESPACE
+f2fe62c038318da520278c47640f827c *R/layout.R
+608cbcae622cd2dc4acde6beb587a95a *README.md
+021c342fc56e614ddbbd70ee4d76da0a *inst/www/miniUI.css
+0bae96d4202ba0f3f4ce1e22c5260992 *man/miniButtonBlock.Rd
+d5d17dd970b821745a6d1907af8bb094 *man/miniContentPanel.Rd
+9b10196e7d062743fdc604c5567ba595 *man/miniPage.Rd
+19c7a33815d3596efcb08cef2a300484 *man/miniTabstripPanel.Rd
+2d90e8348547203b809f9953d5ddcf8e *man/miniTitleBar.Rd
